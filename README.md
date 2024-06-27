@@ -1,6 +1,8 @@
 # Code The Dream Ruby on Rails Class: Lessons 3 and 4
 
-This repository provides a brief introduction to the Ruby language.  It is assumed that students already know JavaScript, and are familiar with the basic concepts of a programming language.
+This repository provides a brief introduction to the Ruby language for Code The Dream students.  It is assumed that students already know JavaScript, and are familiar with the basic concepts of a programming language.
+
+**I am a volunteer instructor there, and this an example repo to help each student through the progression of these lessons.**
 
 The assignment and lesson information is linked below:
 
